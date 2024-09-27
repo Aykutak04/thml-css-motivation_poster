@@ -1,0 +1,23 @@
+p {
+    color: aqua;
+    font-family: "Libre Baskerville", Arial;
+  }
+  img {
+    width: 100%;
+
+    border: 5px;
+    border: solid white;
+  }
+  body {
+    background-color: black;
+  }
+  h1 {
+    font-family: "Libre Baskerville", Arial;
+    color: white;
+  }
+  div {
+    text-align: center;
+    width: 20%;
+    margin-left: 40%;
+    margin-top: 50px;
+  }
